@@ -21,5 +21,3 @@ A data science project that predicts house prices in Bangalore using machine lea
 
 ---
 
-
-![location](location.png)
